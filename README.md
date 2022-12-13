@@ -1,4 +1,4 @@
-![git-flow](https://raw.githubusercontent.com/tatoanhn02/Git-flow/main/workflows.drawio v2.png)
+![git-flow](https://raw.githubusercontent.com/tatoanhn02/Git-flow/main/workflows.drawio%20v2.png)
 Flow git
 
 There are six branch types:
